@@ -1,0 +1,4 @@
+Name;Address;Money
+Minh;Hai Phong;1000.0
+Linh;Ha Tinh;1100.0
+Mai;Sai Gon;1200.0
